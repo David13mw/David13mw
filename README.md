@@ -11,8 +11,34 @@
 <p align="center"><img src="https://i.gifer.com/K7l7.gif" width=480 height=100 frameBorder="0" allowFullScreen></img></p>
 <h2>¿Quién soy?</h2>
 <h3>text</h3>
+<h2> Habilidades</h2>
+<h3>
+  <li>Adaptabilidad</li>
+  <li>Creatividad</li>
+  <li>Trabajo en equipo</li>
+  <li>Autodominio</li>
+  <li>Empatía</li>
+  <li>Liderazgo</li>
+</h3>
 <h2>⌨️ Tecnologías y Herramientas</h2>
-<h3>to</h3>
+<h3>Lenguajes de programación: <p></p>
+    <li>JavaScript</li>
+    <li>C#</li>
+    <li>C++</li>
+    <li>R</li>
+</h3>
+<h3>Frameworks: <p></p>
+  <li>Flutter</li>
+</h3>
+<h3>Base de datos: <p></p>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+</h3>
+<h3>Softwares<p></p>
+  <li>Blender</li>
+  <li>R Studio</li>
+</h3> 
+
 <h2>💻 Proyectos</h2>
 <h3>mis pro</h3>
 <h2>⭐ Pasatiempos y gustos</h2>
