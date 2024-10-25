@@ -37,6 +37,12 @@
 <h3>Softwares<p></p>
   <li>Blender</li>
   <li>R Studio</li>
+  <li>Power BI</li>
+  <li>Visual Studio Code</li>
+  <li>Adobe Photoshop</li>
+  <li>Canva</li>
+  <li>CapCut</li>
+  
 </h3> 
 
 <h2>💻 Proyectos</h2>
