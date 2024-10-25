@@ -1,11 +1,14 @@
 <h1 align="Center"> Bienvenido a mi repositorio en Github</h1>
-<h1 align="Center"> ¡Hola! Mi nombre es Cristian David Cervantes Barragán <p align="center">
+<h1 align="Center"> ¡Hola! Mi nombre es Cristian David Cervantes Barragán
+  <p></p>
+  <p align="center">
   <img src="https://github.com/David13mw/David13mw/blob/main/foto%20perfil%20git.png?raw=true" width="300" height="300">
 </p> </h1>
 <h2> 🎓Títulos Universitarios</h2>
 <li> Ingenieria en Entornos Virtuales y Negocios Digitales </li>
 <li>Ténico Superior Universitario en Tecnológias de la Información área Entornos Virtuales y Negocios Digitales</li>
-<img src="https://i.gifer.com/3F3I.mp4" width=480 height=480>
+<p></p>
+<p align="center"><img src="https://i.gifer.com/K7l7.gif" width=480 height=100 frameBorder="0" allowFullScreen></img></p>
 <h2>¿Quién soy?</h2>
 <h3>text</h3>
 <h2>⌨️ Tecnologías y Herramientas</h2>
