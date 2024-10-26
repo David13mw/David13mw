@@ -7,11 +7,15 @@
 <h2>¿Quién soy?</h2>
 <h3>Soy una persona apasionada por la creatividad y la imaginación, comprometida con el trabajo y siempre buscando dar lo mejor de mí. Me gusta ayudar a los demás, aprender nuevas cosas, ser respetuoso y mantener la puntualidad como un valor fundamental en mi vida.</h3>
 <p></p>
-<p align="center"><img src="https://i.gifer.com/2yqT.gif" width=580 height=200 frameBorder="0" allowFullScreen></img></p>
+<p align="center"><img src="https://i.gifer.com/2yqT.gif" width=580 height=200></img></p>
 <h2> 🎓Formación académica</h2>
 <li> Ingenieria en Entornos Virtuales y Negocios Digitales </li>
 <li>Ténico Superior Universitario en Tecnológias de la Información área Entornos Virtuales y Negocios Digitales</li>
-
+<h2>Cursos</h2>
+<h3>
+  <li>Curso: Desarrollador de aplicaciones móviles </li>
+  <li>Curso: Técnico en instalación y reparación de equipo de cómputo</li>
+</h3>
 <h2> Habilidades</h2>
 <h3>
   <li>Adaptabilidad</li>
@@ -53,7 +57,6 @@
 <h3>Motores Gráficos: <p></p>
   <li>UNITY</li>
 </h3>
-
 <h2>💻 Proyectos</h2>
 <h3>
 <h3>💻Proyecto: Página Magic Shop</h3> <p></p>
