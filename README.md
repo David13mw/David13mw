@@ -55,6 +55,10 @@
 
 <h2>💻 Proyectos</h2>
 <h3>
+<h3>💻Proyecto: Página Magic Shop</h3> <p></p>
+<h4>Este proyecto fue realizado en el mes de mayo del 2021, el cual fue mi primer siio web y se creo una pagina web sobre una tienda de productos de arte</h4>
+<p></p>
+  
 <h3>💻Proyecto: Aplicación Web “Distribuidora Trejo's”</h3> <p></p>
 <h4>Este proyecto fue realizado en el periodo de Mayo-Agosto
 del 2022, el cual se creo una aplicación web para la
@@ -113,6 +117,10 @@ Universidad Tecnológica de Tlaxcala.</h4>
 Diciembre del 2023, el cual se creo un videojuego 3D de terror
 ambientado en la Universidad Tecnológica de Tlaxcala.</h4>
 
+<p></p>
+  <h3>💻Proyecto: Juego "Snake"</h3>
+  <p></p>
+  <h4>Este proyecto fue realizado en el periodo de Enero-Abril del 2024, el cual se creo un Videojuego 2D en html y javascript el cual es sobre el juego de la serpiente</h4>
   <p></p>
   <h3>💻Proyecto: VideoJuego "Galaxy Shotoer"</h3>
   <p></p>
