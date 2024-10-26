@@ -68,7 +68,7 @@ Diciembre del 2022, el cual se creo una aplicación de
 realidad aumentada para la Biblioteca de la Universidad
 Tecnológica de Tlaxcala donde muestra las reglas de la biblioteca.</h4>
   <p></p>
-  <h3>Proyecto: Aplicacion de realidad aumentada web con temática navideña</h3>
+  <h3>💻Proyecto: Aplicacion de realidad aumentada web con temática navideña</h3>
   <p></p>
   <h4>Este proyecto fue realizado en el periodo de Septiembre-
 Diciembre del 2022, el cual se creo para las fechas navideñas</h4>
