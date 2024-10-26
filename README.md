@@ -4,13 +4,14 @@
   <p align="center">
   <img src="https://github.com/David13mw/David13mw/blob/main/foto%20perfil%20git.png?raw=true" width="300" height="300">
 </p> </h1>
-<h2> 🎓Títulos Universitarios</h2>
+<h2>¿Quién soy?</h2>
+<h3>Soy una persona apasionada por la creatividad y la imaginación, comprometida con el trabajo y siempre buscando dar lo mejor de mí. Me gusta ayudar a los demás, aprender nuevas cosas, ser respetuoso y mantener la puntualidad como un valor fundamental en mi vida.</h3>
+<p></p>
+<p align="center"><img src="https://i.gifer.com/2yqT.gif" width=580 height=200 frameBorder="0" allowFullScreen></img></p>
+<h2> 🎓Formación académica</h2>
 <li> Ingenieria en Entornos Virtuales y Negocios Digitales </li>
 <li>Ténico Superior Universitario en Tecnológias de la Información área Entornos Virtuales y Negocios Digitales</li>
-<p></p>
-<p align="center"><img src="https://i.gifer.com/K7l7.gif" width=480 height=100 frameBorder="0" allowFullScreen></img></p>
-<h2>¿Quién soy?</h2>
-<h3>text</h3>
+
 <h2> Habilidades</h2>
 <h3>
   <li>Adaptabilidad</li>
@@ -132,6 +133,7 @@ ambientado en la Universidad Tecnológica de Tlaxcala.</h4>
 <li>Aprender a cocinar</li>
 <li>Jugar videojuegos</li>
 <h2>📨 Contactos</h2>
+
 <h3>
   <p align="center">
   <a href="https://x.com/612Barragan" target="_blank">
@@ -150,6 +152,7 @@ ambientado en la Universidad Tecnológica de Tlaxcala.</h4>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+  <p align="center"><img src="https://i.gifer.com/y2.gif" width=100 height=100 frameBorder="0" allowFullScreen></img></p>
 </h3>
 <p align="center"><img src="https://github.com/David13mw/David13mw/blob/main/banner%20git.png?raw=true" width="800" height="300"> </p>
 <p align="center"><img src="https://i.gifer.com/Gd1.gif"></p>
