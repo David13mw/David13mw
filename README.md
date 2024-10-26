@@ -36,14 +36,21 @@
 </h3>
 <h3>Softwares<p></p>
   <li>Blender</li>
+  <li>Star UML</li>
   <li>R Studio</li>
   <li>Power BI</li>
   <li>Visual Studio Code</li>
+  <li>Android Studio</li>
   <li>Adobe Photoshop</li>
+  <li>Adobe After Effects</li>
+  <li>Krita</li>
   <li>Canva</li>
   <li>CapCut</li>
-  
+  <li></li>
 </h3> 
+<h3>Motores Gráficos: <p></p>
+  <li>UNITY</li>
+</h3>
 
 <h2>💻 Proyectos</h2>
 <h3>mis pro</h3>
@@ -66,10 +73,10 @@
   <a href="https://www.instagram.com/david_mw03/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/tuUsuarioDeFacebook" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100009092910317" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="barragandavid317@gmail.com">
+  <a href="mailto:barragandavid317@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
