@@ -40,20 +40,23 @@
   <li>R Studio</li>
   <li>Power BI</li>
   <li>Visual Studio Code</li>
+  <li>Netbeans</li>
   <li>Android Studio</li>
+  <li>XAMPP</li>
   <li>Adobe Photoshop</li>
   <li>Adobe After Effects</li>
   <li>Krita</li>
   <li>Canva</li>
   <li>CapCut</li>
-  <li></li>
 </h3> 
 <h3>Motores Gráficos: <p></p>
   <li>UNITY</li>
 </h3>
 
 <h2>💻 Proyectos</h2>
-<h3>mis pro</h3>
+<h3>
+  <li>Aplicación Web “Distribuidora Trejo's”</li>
+</h3>
 <h2>⭐ Pasatiempos</h2>
 <li>Escuchar Música</li>
 <li>Leer</li>
@@ -63,9 +66,6 @@
   <p align="center">
   <a href="https://x.com/612Barragan" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="www.linkedin.com/in/david-cervantes-barragán-4a7999331" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/David13mw" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
