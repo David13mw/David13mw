@@ -14,7 +14,8 @@
 <h2>Cursos</h2>
 <h3>
   <li>Curso: Desarrollador de aplicaciones móviles </li>
-  <li>Curso: Técnico en instalación y reparación de equipo de cómputo</li>
+  <li>Curso: Técnico en instalación y reparación de equipo de cómputo 
+</li>
 </h3>
 <h2> Habilidades</h2>
 <h3>
