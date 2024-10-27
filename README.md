@@ -15,6 +15,7 @@
 <h3>
   <li>Curso: Desarrollador de aplicaciones móviles </li>
   <li>Curso: Técnico en instalación y reparación de equipo de cómputo 
+    <h4>https://drive.google.com/drive/folders/1NqsSEhznmcO4fOaNbKf-7GfcXFP0LfF_?usp=sharing</h4>
 </li>
 </h3>
 <h2> Habilidades</h2>
@@ -62,13 +63,16 @@
 <h3>
 <h3>💻Proyecto: Página Magic Shop</h3> <p></p>
 <h4>Este proyecto fue realizado en el mes de mayo del 2021, el cual fue mi primer siio web y se creo una pagina web sobre una tienda de productos de arte</h4>
+  <h4>https://david13mw.github.io/Tienda/#</h4>
 <p></p>
   
 <h3>💻Proyecto: Aplicación Web “Distribuidora Trejo's”</h3> <p></p>
 <h4>Este proyecto fue realizado en el periodo de Mayo-Agosto
 del 2022, el cual se creo una aplicación web para la
 Distribuidora Trejo´s, el cual es un punto de venta.</h4>
+<h3>Rol</h3>
 <p></p>
+
 <h3>💻Proyecto: Aplicación de realidad aumentada
 “Liber”</h3>
 <p></p>
@@ -81,6 +85,7 @@ Tecnológica de Tlaxcala donde muestra las reglas de la biblioteca.</h4>
   <p></p>
   <h4>Este proyecto fue realizado en el periodo de Septiembre-
 Diciembre del 2022, el cual se creo para las fechas navideñas</h4>
+<h4>https://david13mw.github.io/Navidad-AR/</h4>
   
   <p></p>
   <h3>💻Proyecto: Aplicación móvil “La Chulada”</h3>
@@ -130,6 +135,7 @@ ambientado en la Universidad Tecnológica de Tlaxcala.</h4>
   <h3>💻Proyecto: VideoJuego "Galaxy Shotoer"</h3>
   <p></p>
   <h4>Este proyecto fue realizado en el periodo de Enero-Abril del 2024, el cual se creo un Videojuego 2D el cual es sobre una nave espacial que debe ir destruyendo a otras naves espaciales</h4>
+  <h4>https://davidmw13.github.io/Juego-Snake-CDCB/</h4>
 </h3>
 <h2>⭐ Pasatiempos</h2>
 <li>Escuchar Música</li>
