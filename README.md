@@ -18,6 +18,8 @@
     <h4>https://drive.google.com/drive/folders/1NqsSEhznmcO4fOaNbKf-7GfcXFP0LfF_?usp=sharing</h4>
 </li>
 </h3>
+<h2>Idiomas</h2>
+<h3>Inglés A2</h3>
 <h2> Habilidades</h2>
 <h3>
   <li>Adaptabilidad</li>
@@ -145,7 +147,7 @@ ambientado en la Universidad Tecnológica de Tlaxcala.</h4>
   <h3>💻Proyecto: Entorno virtual</h3>
   <p></p>
   <h4>Este proyecto fue realizado en el periodo de Enero-Abril del 2024, el cual se creo un entorno virtual, donde se puede caminar y ver todo el entorno.</h4>
-  <h4></h4>
+  <h4>https://drive.google.com/drive/folders/1k1FQKrxt446fdNg9vDe05mVnV9DvrW1_?usp=sharing</h4>
 
 <p></p>
   <h3>💻Proyecto: Juego "Snake"</h3>
