@@ -1,5 +1,7 @@
 <h1 align="Center"> Bienvenido a mi repositorio en Github</h1>
-<h1 align="Center"> ¡Hola! Mi nombre es Cristian David Cervantes Barragán
+<h1 align="Center"> ¡Hola! Mi nombre es Cristian David Cervantes Barragán</h1>
+<h2 align="Center">Desarrollador y Diseñador de Entornos Virtuales y Negocios Digitales</h2>
+  
   <p></p>
   <p align="center">
   <img src="https://github.com/David13mw/David13mw/blob/main/foto%20perfil%20git.png?raw=true" width="300" height="300">
