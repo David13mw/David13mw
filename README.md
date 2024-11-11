@@ -171,6 +171,7 @@ ambientado en la Universidad Tecnológica de Tlaxcala.</h4>
 <li>Leer</li>
 <li>Aprender a cocinar</li>
 <li>Jugar videojuegos</li>
+<li>Dibujar</li>
 <h2>📄Descargar CV</h2>
 <h3> https://github.com/David13mw/David13mw/blob/736a54ed0d82a22d04fd54538ab8dc64e742a45c/CV%20Cristian%20David%20Cervantes%20Barrag%C3%A1n.pdf </h3>
 <h2>📨 Contactos</h2>
