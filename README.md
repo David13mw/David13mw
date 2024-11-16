@@ -12,7 +12,7 @@
 <p align="center"><img src="https://i.gifer.com/2yqT.gif" width=580 height=200></img></p>
 <h2> 🎓Formación académica</h2>
 <li> Ingenieria en Entornos Virtuales y Negocios Digitales </li>
-<li>Ténico Superior Universitario en Tecnológias de la Información área Entornos Virtuales y Negocios Digitales</li>
+<li>Ténico Superior Universitario en Tecnologías de la Información área Entornos Virtuales y Negocios Digitales</li>
 <h2>Cursos</h2>
 <h3>
   <li>Curso: Desarrollador de aplicaciones móviles </li>
@@ -24,6 +24,7 @@
 <h3>Inglés A2</h3>
 <h2> Habilidades</h2>
 <h3>
+  <li>Resposabilidad</li>
   <li>Adaptabilidad</li>
   <li>Creatividad</li>
   <li>Trabajo en equipo</li>
