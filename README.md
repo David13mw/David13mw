@@ -16,8 +16,10 @@
 <h2>Cursos</h2>
 <h3>
   <li>Curso: Desarrollador de aplicaciones móviles </li>
-  <li>Curso: Técnico en instalación y reparación de equipo de cómputo 
+  <li>Curso: Técnico en instalación y reparación de equipo de cómputo</li>
+  <li>Curso: Taler - Figma</li>
     <h4>https://drive.google.com/drive/folders/1NqsSEhznmcO4fOaNbKf-7GfcXFP0LfF_?usp=sharing</h4>
+    <h4>https://cursos.desafiolatam.com/certificates/8uachpdg2l</h4>
 </li>
 </h3>
 <h2>Idiomas</h2>
