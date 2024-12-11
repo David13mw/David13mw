@@ -164,7 +164,21 @@ ambientado en la Universidad Tecnológica de Tlaxcala.</h4>
   <p></p>
   <h4>Este proyecto fue realizado en el periodo de Enero-Abril del 2024, el cual se creo un Videojuego 2D el cual es sobre una nave espacial que debe ir destruyendo a otras naves espaciales</h4>
   <h4>https://drive.google.com/drive/folders/1BucLfGh_xTbGlEx-wTaglJSJM4WPZb1G?usp=sharing</h4>
+  
+<p></p>
+  <h3>💻Proyecto Lenses: Estudio de fotografía Mont F </h3>
   <p></p>
+  <h4>Este proyecto se empezo a realizar en Septiembre del 2024 y actualmente sigue en desarrollo, se esta creando una aplicación web progresiva para el estudio de fotografía
+Mont.F en el cual se puede visualizar un catálogo de los paquetes que cuenta el estudio, los
+trabajos que ha realizado, un aparatdo con modelados 3D y poder agendar una cita.</h4>
+  <h4>http://montfstudio.vercel.app</h4>
+  <h3>Colaboración</h3>
+<li>Ing. José Miguel Sánchez Vieyra</li>
+<li>Ing. Jorge Hernández López</li> 
+<li>Ing. Teresa Isabel Trejo Hernández</li>
+  <p></p>
+
+  
   <h3>💻Otros proyectos</h3>
   <p></p>
   <h4>https://drive.google.com/drive/folders/12_nZfw5Stzg1pkBDM98gFczCiAy3bwX2?usp=sharing</h4>
