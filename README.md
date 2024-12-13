@@ -16,13 +16,16 @@
 <h2>Cursos</h2>
 <h3>
   <li>Curso: Desarrollador de aplicaciones móviles </li>
+  <h4>https://capacitateparaelempleo.org/verifica/6ee36b50-ff57-4bdd-b35a-66cbc88d5081/2ff33af4-b97a-4c5a-aefa-95c27b1a678f</h4>
   <li>Curso: Técnico en instalación y reparación de equipo de cómputo</li>
+  <h4>https://capacitateparaelempleo.org/verifica/6ee36b50-ff57-4bdd-b35a-66cbc88d5081/7060f802-24c7-48cb-b6ca-6564b42c09b9</h4>
   <li>Curso: Taller - Figma</li>
-    <li>Curso: ARTE EN EL CÓDIGO - frameworks para crear animaciones sorprendentes en frontend</li>
-    <h4>https://drive.google.com/drive/folders/1NqsSEhznmcO4fOaNbKf-7GfcXFP0LfF_?usp=sharing</h4>
-    <h4>https://cursos.desafiolatam.com/certificates/8uachpdg2l</h4>
-    <h4>https://cursos.desafiolatam.com/certificates/dihr4c52ps</h4>
+  <h4>https://cursos.desafiolatam.com/certificates/8uachpdg2l</h4>
+  <li>Curso: ARTE EN EL CÓDIGO - frameworks para crear animaciones sorprendentes en frontend</li>
+  <h4>https://cursos.desafiolatam.com/certificates/dihr4c52ps</h4>
 </li>
+<h3>Certificados</h3>
+<h4>https://drive.google.com/drive/folders/1NqsSEhznmcO4fOaNbKf-7GfcXFP0LfF_?usp=sharing</h4>
 </h3>
 <h2>Idiomas</h2>
 <h3>Inglés A2</h3>
