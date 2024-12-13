@@ -17,9 +17,11 @@
 <h3>
   <li>Curso: Desarrollador de aplicaciones móviles </li>
   <li>Curso: Técnico en instalación y reparación de equipo de cómputo</li>
-  <li>Curso: Taler - Figma</li>
+  <li>Curso: Taller - Figma</li>
+    <li>Curso: ARTE EN EL CÓDIGO - frameworks para crear animaciones sorprendentes en frontend</li>
     <h4>https://drive.google.com/drive/folders/1NqsSEhznmcO4fOaNbKf-7GfcXFP0LfF_?usp=sharing</h4>
     <h4>https://cursos.desafiolatam.com/certificates/8uachpdg2l</h4>
+    <h4>https://cursos.desafiolatam.com/certificates/dihr4c52ps</h4>
 </li>
 </h3>
 <h2>Idiomas</h2>
